@@ -7,4 +7,4 @@ Awesome Materials on Blockchain
 ---
 **Also I would Really appriciate If you can contribute some awesome articles on Blockchain that you would have found. It would help a lot for others to gain some insights of this topic.**
 
-Please Leave a Start If you like it, and You can fork it in case you want to develop a similar model and verify outputs.
+Please Leave a :star: If you like it, and You can fork(:fork_and_knife:) it in case you want to develop a similar model and verify outputs.
